@@ -25,6 +25,7 @@ export default function TextForm(props) {
   }
   const speak = () => {
     let msg = new SpeechSynthesisUtterance();
+    msg.text = text;
     window.speechSynthesis.speak(msg);
   }
   const handleCopy = () => {
