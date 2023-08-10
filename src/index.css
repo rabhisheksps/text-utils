@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.about-container{
+  height: 320px;
+}
+.accordian-button::after{
+  filter: invert(1);
+}

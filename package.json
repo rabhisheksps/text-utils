@@ -1,5 +1,4 @@
 {
-  "homepage": "https://rabhisheksps.github.io/text-utils",
   "name": "react-tutorial",
   "version": "0.1.0",
   "private": true,
@@ -10,7 +9,6 @@
     "babel": "^6.23.0",
     "bootstrap": "^5.3.1",
     "font-awesome": "^4.7.0",
-    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-bootstrap": "^2.8.0",
     "react-dom": "^18.2.0",
